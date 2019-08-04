@@ -1,0 +1,32 @@
+<annotation>
+  <folder>image</folder>
+  <filename>0005.jpg</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>4160</width>
+    <height>2340</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>AOT-ID-Card</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <bndbox>
+      <xmin>485</xmin>
+      <ymin>30</ymin>
+      <xmax>2398</xmax>
+      <ymax>1183</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>AOT-ID-Card</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <bndbox>
+      <xmin>3032</xmin>
+      <ymin>7</ymin>
+      <xmax>4153</xmax>
+      <ymax>1007</ymax>
+    </bndbox>
+  </object>
+</annotation>
